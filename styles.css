@@ -1,1 +1,50 @@
 /*  your css code here. If applicable */
+body{
+	background-color: rgb(204, 204, 204);
+}
+h1{
+	text-align:center;
+}
+ul{
+	border:1px solid black;
+	text-decoration-line: none;
+	border-radius:10px;
+	list-style-type: none;
+	background-color:white;
+	padding:10px;
+	
+	
+}
+ul li{
+	margin-left:10px;
+	padding:3px;
+}
+h2{
+	text-align:center;
+}
+
+.Container{
+	background-color: rgb(255, 255, 255);
+	padding: 10px;
+	border-radius:10px;
+	border:1px solid black;
+	
+}
+.Container video{
+	width:100%;
+	
+}
+.Container h2{
+	margin-top:-2px
+}
+.Container audio{
+	width:100%
+	
+	
+}
+.Container p{
+	margin-left:10px;
+	
+}
+
+
